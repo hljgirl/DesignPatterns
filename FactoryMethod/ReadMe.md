@@ -5,10 +5,10 @@
 
 
 ##结构
-1. Product(Running Shoe):抽象产品.
-2. ConcreteProduct(AsicsRunning Shoe,NikeRunning Shoe):具体产品.
+1. Product(Product):抽象产品.
+2. ConcreteProduct(ProductA, ProductB):具体产品.
 3. Creator(Factory):抽象工厂.
-4. ConcreteCreator(AsicsFactory,NikeFactory):具体工厂.
+4. ConcreteCreator(FactoryA, FactoryB):具体工厂.
 
 
 
